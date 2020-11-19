@@ -1,13 +1,4 @@
-# MarkdownChallenge
-Markdown Challenge for 1600 Digital Systems
+# Table of Contents
 
-[Click to go to Foo](#foo)
-
-sldfkj
-lskdfj
-
-sldfj
->l lskdjf
-> lsdjf
-
-#foo
+1. [About Me](aboutMe.md)
+2. [My Interests](interests.md)
